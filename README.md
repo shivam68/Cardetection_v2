@@ -47,20 +47,4 @@ streamlit run app.py
 </p>
 
 
-# contributor
-```
-Author : Rishabh
-Contact: rbrishabh76@gmail.com
-
-Author: Shivansh Srivastava
-Contact: srivastavashiv0112@gmail.com
-
-Author: Shreya Garg
-Contact: shreyagarg031@gmail.com 
-
-Author: Shubyansh Rai
-Contact: shubhayansh@gmail.com
-```
-
-
 
